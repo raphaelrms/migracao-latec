@@ -7,6 +7,7 @@ ruby '2.0.0'
 
 gem 'mysql2'
 gem 'spreadsheet','0.9.6'
+gem 'therubyracer'
 
 # Gems used only for assets and not required
 # in production environments by default.
